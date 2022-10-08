@@ -1,4 +1,4 @@
-# Python-Project-Stocker
+# Python-Project-Stock-90
 --------BY-----------
 SANOJ KUMAR PRADHAN
 ---------------------
